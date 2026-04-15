@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"attr":["async_trait"],"fn":["serve"],"mod":["body","error_handling","extract","handler","http","middleware","response","routing","serve"],"struct":["Error","Extension","Form","Json","Router"],"trait":["RequestExt","RequestPartsExt","ServiceExt"],"type":["BoxError"]};

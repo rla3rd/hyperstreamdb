@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DumpMode"],"fn":["load_description","load_hnsw","load_hnsw_with_dist"],"struct":["Description"],"trait":["HnswIO"]};

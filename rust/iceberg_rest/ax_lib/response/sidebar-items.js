@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["sse"],"struct":["AppendHeaders","ErrorResponse","Extension","Form","Html","Json","NoContent","Redirect","ResponseParts","Sse"],"trait":["IntoResponse","IntoResponseParts"],"type":["Response","Result"]};

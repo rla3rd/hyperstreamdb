@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["py_cosine","py_cosine_batch","py_cosine_sparse","py_hamming","py_hamming_auto","py_hamming_batch","py_hamming_packed","py_inner_product","py_inner_product_batch","py_inner_product_sparse","py_jaccard","py_jaccard_auto","py_jaccard_batch","py_jaccard_packed","py_l1","py_l1_batch","py_l2","py_l2_batch","py_l2_sparse"],"struct":["PySparseVector"]};

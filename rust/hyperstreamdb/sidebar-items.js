@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["VERSION"],"macro":["declare_myapi_type","mapdist_t"],"mod":["core","enterprise","python_binding","python_distance","python_gpu_context","telemetry"],"struct":["SegmentConfig"]};

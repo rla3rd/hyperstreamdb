@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["simple_kmeans","simple_kmeans_assignment"],"struct":["IvfIndex"]};

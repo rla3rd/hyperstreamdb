@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["CatalogType"],"fn":["create_catalog","create_catalog_async"],"mod":["config","glue","hive","jdbc","nessie","rest","unity"],"trait":["Catalog"]};

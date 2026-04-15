@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["execute_vector_search","execute_vector_search_with_config","merge_and_rank_fusion","merge_and_rerank_vector_results"],"struct":["QueryConfig","VectorSearchRequest"]};

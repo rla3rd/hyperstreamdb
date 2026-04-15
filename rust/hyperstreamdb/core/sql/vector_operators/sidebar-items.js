@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["VECTOR_OPERATORS"],"fn":["get_operator_for_udf","get_udf_for_operator","register_vector_operators"],"struct":["VectorOperatorMapping"]};

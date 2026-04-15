@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["LabelPattern","MergeMode"],"fn":["excel_column_label"],"mod":["builder","fluent","read","schema","write"],"struct":["ColumnIndexConfig","DataFileInfo","IndexCoverage","Split","Table","TableStatistics"]};

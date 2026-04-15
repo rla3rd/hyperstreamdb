@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["DeleteContent","IndexAlgorithm","ManifestValue","NullOrder","SortDirection"],"struct":["ColumnStats","CommitMetadata","DeleteFile","IndexFile","Manifest","ManifestEntry","ManifestList","ManifestListEntry","ManifestManager","PartitionField","PartitionSpec","Schema","SchemaField","SortField","SortOrder","VectorStats"],"type":["SegmentId"]};

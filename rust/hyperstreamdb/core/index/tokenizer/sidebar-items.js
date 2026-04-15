@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["GLOBAL_TOKENIZER_REGISTRY","IdentityTokenizer","IndexConfig","StandardTokenizer","TokenizerRegistry","WhitespaceTokenizer"],"trait":["Tokenizer"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Commands","TableCommands"],"fn":["compact_table","inspect_table","main","run_query","run_repl","vacuum_table"],"struct":["Cli"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["GPU_DISPATCH_THRESHOLD"],"enum":["ComputeBackend"],"fn":["compute_distance","compute_kmeans_assignment","get_global_gpu_context","set_global_gpu_context"],"struct":["ComputeContext","CpuBackend","CudaBackend","WgpuBackend"],"trait":["GpuBackend"]};

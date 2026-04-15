@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["rewrite_pgvector_plan","rewrite_sql_string"],"struct":["PgVectorRewriter"]};

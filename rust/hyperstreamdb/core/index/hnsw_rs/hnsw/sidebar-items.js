@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["Hnsw","IterPoint","IterPointLayer","LayerGenerator","Neighbour","NoData","Point","PointId","PointIdWithOrder","PointIndexation"],"type":["DataId","PointDistance"]};

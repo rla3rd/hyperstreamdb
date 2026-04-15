@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["TableRequirement","TableUpdateAction"],"fn":["create_table","get_config","get_table","list_namespaces","list_tables","main","register_table","update_table"],"mod":["ax_lib"],"struct":["CatalogConfig","CreateTableRequest","TableUpdateRequest"]};
