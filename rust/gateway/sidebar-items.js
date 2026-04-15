@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["health_check","ingest_handler","main","query_handler"],"struct":["IngestRequest","QueryRequest","QueryResponse"]};

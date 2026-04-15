@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["l2_normalize"],"struct":["DistCFFI","DistCosine","DistDot","DistFn","DistHamming","DistHellinger","DistJaccard","DistJeffreys","DistJensenShannon","DistL1","DistL2","DistLevenshtein","DistPtr","NoDist"],"trait":["Distance"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["optimizer","pgvector_rewriter","physical_plan","session","vector_literal","vector_operators","vector_udf"],"struct":["HyperStreamTableProvider"]};

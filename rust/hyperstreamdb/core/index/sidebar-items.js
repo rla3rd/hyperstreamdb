@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["QuantizerImpl","VectorMetric","VectorType","VectorValue"],"mod":["distance","gpu","hnsw_ivf","hnsw_rs","ivf","memory","pq","tokenizer","turboquant"],"struct":["SparseVector"],"trait":["Quantizer","VectorIndex"]};

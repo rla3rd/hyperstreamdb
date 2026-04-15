@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["get_embedded_func","register_embedded_func"],"struct":["EmbeddingRegistry","GLOBAL_REGISTRY","PythonCallbackFunction","RemoteFunction"],"trait":["EmbeddingFunction"]};

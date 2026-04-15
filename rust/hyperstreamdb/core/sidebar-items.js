@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["cache","catalog","clustering","compaction","embeddings","ffi","iceberg","index","maintenance","manifest","merge","metadata","nessie","planner","puffin","query","reader","search","segment","sql","storage","table","wal"]};

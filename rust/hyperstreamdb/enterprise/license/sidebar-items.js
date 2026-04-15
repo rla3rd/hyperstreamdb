@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["has_feature","validate_license"],"struct":["License"]};

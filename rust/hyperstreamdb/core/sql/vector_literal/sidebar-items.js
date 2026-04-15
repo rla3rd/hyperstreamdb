@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["format_binary_vector","validate_vector_dimensions"],"struct":["VectorLiteralParser"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["api","dist","flatten","hnsw","hnswio","libext","prelude"]};

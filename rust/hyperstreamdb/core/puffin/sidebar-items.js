@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["DELETION_VECTOR_TYPE","PUFFIN_MAGIC"],"fn":["read_deletion_vector_from_bytes","read_deletion_vector_from_puffin"],"struct":["PuffinBlobMetadata","PuffinFooter","PuffinReader","PuffinWriter"]};
