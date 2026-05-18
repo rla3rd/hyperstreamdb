@@ -127,7 +127,7 @@ scikit-learn==1.8.0
 scipy==1.17.1
 Send2Trash==2.1.0
 sentence-transformers==5.3.0
-setuptools==81.0.0
+setuptools==82.0.1
 shellingham==1.5.4
 six==1.17.0
 sortedcontainers==2.4.0
