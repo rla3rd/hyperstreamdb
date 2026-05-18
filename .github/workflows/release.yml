@@ -30,7 +30,7 @@ jobs:
           sudo rm -rf /usr/local/lib/android
           sudo rm -rf /opt/ghc
           sudo rm -rf /opt/hostedtoolcache/CodeQL
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Install Rust
         uses: dtolnay/rust-toolchain@stable
       - name: Install CUDA Toolkit
@@ -124,7 +124,7 @@ jobs:
         target: [x86_64, aarch64]
         python-version: ["3.10"] # ABI3 Universal Wheels
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Cache Rust dependencies
         uses: Swatinem/rust-cache@v2
         with:
@@ -177,7 +177,7 @@ jobs:
         target: [x86_64, aarch64]
         python-version: ["3.10"] # ABI3 Universal Wheels
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Cache Rust dependencies
         uses: Swatinem/rust-cache@v2
         with:
@@ -213,7 +213,7 @@ jobs:
     needs: [check]
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Update version from tag
         shell: bash
         run: |
@@ -243,7 +243,7 @@ jobs:
     needs: [linux, macos, sdist]
     environment: release_pypi
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       - name: Install Rust
         uses: dtolnay/rust-toolchain@stable
       - name: Update version from tag
