@@ -76,7 +76,7 @@ nest-asyncio==1.6.0
 networkx==3.6.1
 notebook_shim==0.2.4
 numpy==2.4.4
-nvidia-cublas==13.1.0.3
+nvidia-cublas==13.5.1.27
 nvidia-cuda-cupti==13.0.85
 nvidia-cuda-nvrtc==13.0.88
 nvidia-cuda-runtime==13.0.96
