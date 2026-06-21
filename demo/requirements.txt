@@ -91,7 +91,7 @@ nvidia-nccl-cu13==2.28.9
 nvidia-nvjitlink==13.0.88
 nvidia-nvshmem-cu13==3.4.5
 nvidia-nvtx==13.0.85
-packaging==26.0
+packaging==26.2
 pandas==3.0.2
 pandocfilters==1.5.1
 parso==0.8.6
