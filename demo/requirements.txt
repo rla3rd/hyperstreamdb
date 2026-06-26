@@ -15,7 +15,7 @@ bleach==6.3.0
 certifi==2026.2.25
 cffi==2.0.0
 charset-normalizer==3.4.7
-click==8.3.2
+click==8.4.2
 comm==0.2.3
 datasets==4.8.4
 debugpy==1.8.20
