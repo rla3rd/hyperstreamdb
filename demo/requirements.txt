@@ -94,7 +94,7 @@ nvidia-nvtx==13.0.85
 packaging==26.0
 pandas==3.0.2
 pandocfilters==1.5.1
-parso==0.8.6
+parso==0.8.7
 patchelf==0.17.2.4
 pexpect==4.9.0
 platformdirs==4.9.4
