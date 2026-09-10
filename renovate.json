@@ -1,0 +1,15 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:base",
+    ":groupAllNonMajor"
+  ],
+  "schedule": ["every weekend"],
+  "prConcurrentLimit": 3,
+  "packageRules": [
+    {
+      "matchPackagePatterns": ["^datafusion", "^arrow", "^parquet"],
+      "groupName": "datafusion ecosystem"
+    }
+  ]
+}
